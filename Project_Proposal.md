@@ -25,6 +25,7 @@
  >
  | Feature  |  Data Type |
  | ------------- | ------------- |
+ | Title | Categorical |
  | Release Date  | Categorical |
  | Game Rating | Numerical |
  | Users Reviewed | Numerical |
