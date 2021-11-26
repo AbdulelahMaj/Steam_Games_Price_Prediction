@@ -23,20 +23,11 @@
  >
  | Feature  |  Data Type |
  | ------------- | ------------- |
- | patient_id  | ID of the Patient |
- | appointment_id  | ID of the appointment |
- | Gender | Either male of female |
- | secheduled_day | on what day the patient set up their appointment |
- | appointment_day | it is the appointment day |
- | age | how old is the patient |
- | neighborhood |  the location of the hospital |
- | scholarship | if the patient is registered in a program for poor people. [read more here](https://en.wikipedia.org/wiki/Bolsa_Fam%C3%ADlia) |
- | hypertension | high blood pressure. True or false |
- | diabetes | a chronic (long-lasting) health condition. true or false |
- | alcoholism | if the patient is alcoholic or not. true or false |
- | handicap | if the patient are handicap or not. true or false |
- | sms_received | how many messages sent to the patient |
- | no_show | if the patient show up or not. true or false |
+ | Title  | Categorical |
+ | Release Date  | Categorical |
+ | Game Rating | Numerical |
+ | Users Reviewed | Numerical |
+ | Platform Supported | Categorical |
  
  > ## Tools
  > 
