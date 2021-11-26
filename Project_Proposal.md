@@ -1,23 +1,26 @@
 # Steam Games Price Prediction 
 
 > ## Introduction
+> 
 >> Steam is a popular video game digital distribution service where gamers view and download games of their interest. Due to the increase in E-Sports, there are a number of games which have caught the interest of youth of this generation. Steam is home to a million games which are both Free to Play as well as purchase to play including all new releases, their ratings, reviews etc.
 
 
 > ## Goals
+> 
 >> To predict the price of each game.
 
 
 
 > ## Data Description
->> I will scrape data from [Steam Website](https://store.steampowered.com/search/?term=), and I will target each game data and in this project I plan to use these target & features:
-
- | target  |  Data Type |
+> 
+>> I will scrape data from [Steam Website](https://store.steampowered.com/search/?term=), and I will target each game data and in this project I plan to use these **target & features**:
+>
+ | Target  |  Data Type |
  | ------------- | ------------- |
  | Price  | Numerical |
- 
- 
- 
+ >
+ >
+ >
  | Feature  |  Data Type |
  | ------------- | ------------- |
  | patient_id  | ID of the Patient |
@@ -36,6 +39,7 @@
  | no_show | if the patient show up or not. true or false |
  
  > ## Tools
+ > 
  >> - Python
  >> - Jupyter notebook
  >> - BeautifulSoup
@@ -45,4 +49,5 @@
  >> - requests
 
 > ## Conclusion 
+> 
 >> I expect the regression model will predict each game price to help them with their work and also give insights to users based on what game is popular. 
