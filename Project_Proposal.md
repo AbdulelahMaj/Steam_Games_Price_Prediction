@@ -31,8 +31,8 @@
  | no_show | if the patient show up or not. true or false |
  
  > ## Tools
- >> - Python
-- Jupter notebook
+ >> - Python<br>- Jupter notebook
+
 - Beautiful soup
 - Seaborn
 - Pandas
