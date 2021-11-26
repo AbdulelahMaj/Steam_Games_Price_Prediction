@@ -10,9 +10,14 @@
 
 
 > ## Data Description
->> I will scrape data from [Steam Website](https://store.steampowered.com/search/?term=), and I will target each game data and in this project I plan to use these features:
+>> I will scrape data from [Steam Website](https://store.steampowered.com/search/?term=), and I will target each game data and in this project I plan to use these target & features:
 
-
+ | target  |  Data Type |
+ | ------------- | ------------- |
+ | Price  | Numerical |
+ 
+ 
+ 
  | Feature  |  Data Type |
  | ------------- | ------------- |
  | patient_id  | ID of the Patient |
@@ -38,3 +43,6 @@
  >> - Pandas
  >> - sklearn
  >> - requests
+
+> ## Conclusion 
+>> I expect the regression model will predict each game price to help them with their work and also give insights to users based on what game is popular. 
