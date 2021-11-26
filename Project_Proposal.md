@@ -31,14 +31,13 @@
  | no_show | if the patient show up or not. true or false |
  
  > ## Tools
- >> - Python<br>- Jupter notebook
-
-- Beautiful soup
-- Seaborn
-- Pandas
-- statsmodels
-- sklearn
-- requests
+ >> - Python
+ >> - Jupyter notebook
+ >> - BeautifulSoup
+ >> - Seaborn
+ >> - Pandas
+ >> - sklearn
+ >> - requests
 
 > ## Conclusion
 >> To conclude, I expect after analyzing and exploring the data to see the reason of the No Show for the appointments and if there is something forced the patient to not come to the appointment. I plan to have some suggestions that may improve the scheduling of the appointments.
