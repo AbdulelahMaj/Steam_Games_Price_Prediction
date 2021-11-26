@@ -10,7 +10,7 @@
 
 
 > ## Data Description
->> I will scrape data from [Steam Website](https://store.steampowered.com/search/?term=), and I will target the each game data and in this project I plan to use these features:
+>> I will scrape data from [Steam Website](https://store.steampowered.com/search/?term=), and I will target each game data and in this project I plan to use these features:
 
 
  | Feature  |  Data Type |
@@ -38,8 +38,3 @@
  >> - Pandas
  >> - sklearn
  >> - requests
-
-> ## Conclusion
->> To conclude, I expect after analyzing and exploring the data to see the reason of the No Show for the appointments and if there is something forced the patient to not come to the appointment. I plan to have some suggestions that may improve the scheduling of the appointments.
-
-
