@@ -36,6 +36,7 @@
  >> - Python
  >> - Jupyter notebook
  >> - BeautifulSoup
+ >> - selenium
  >> - Seaborn
  >> - Pandas
  >> - sklearn
