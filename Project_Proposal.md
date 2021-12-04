@@ -30,6 +30,7 @@
  | Game Rating | Numerical |
  | Users Reviewed | Numerical |
  | Platform Supported | Categorical |
+ | Achievements | Numerical |
  
  > ## Tools
  > 
