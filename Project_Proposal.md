@@ -19,7 +19,7 @@
 >
  | Target  |  Data Type |
  | ------------- | ------------- |
- | Game Rating  | Numerical |
+ | Price  | Numerical |
  >
  ----
  >
@@ -27,12 +27,18 @@
  | ------------- | ------------- |
  | Title | Categorical |
  | Release Date  | Categorical |
- | Price | Numerical |
+ | Game Rating | Numerical |
  | Users Reviewed | Numerical |
  | Platform Supported | Categorical |
  | Achievements | Numerical |
  | Average Playtime | Numerical |
  | Median Playtime | Numerical |
+ | Genres | Categorical |
+ | Categories | Categorical |
+ | owners | Categorical |
+ | required_age | Numerical |
+ | english | Numerical |
+ 
  
  > ## Tools
  > 
