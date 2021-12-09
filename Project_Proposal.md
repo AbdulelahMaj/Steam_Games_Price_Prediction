@@ -47,6 +47,7 @@
  >> - BeautifulSoup
  >> - selenium
  >> - Seaborn
+ >> - Matplotlib
  >> - Pandas
  >> - sklearn
  >> - requests
